@@ -4,4 +4,8 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Creating a new branch is fast.
 Create a new branch again to test "git switch" command.
-Creating a new file is qiuck & simple.
+<<<<<<< HEAD
+Creating a new branch is qiuck and simple.
+=======
+Creating a new branch is qiuck and simple.
+>>>>>>> feature1
