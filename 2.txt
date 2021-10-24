@@ -1,0 +1,3 @@
+create 2.txt.
+modify 2.txt.
+test: git add -i to stage patchesin file: 2.txt.

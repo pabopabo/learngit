@@ -1,0 +1,3 @@
+create 1.txt.
+modify 1.txt.
+test: use git add -i to stage patches in file 1.txt.
