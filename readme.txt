@@ -10,3 +10,5 @@ test git squash merge: 2.
 test git squash merge: 3.
 test git commit --amend.
 test to sign the git commmit with you private gpg key.
+Re-generate the local GPG key, 'cauze the previous email was wrong, 
+which results in 'unverified' status in all remote repos.
