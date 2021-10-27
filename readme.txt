@@ -9,3 +9,4 @@ test git squash merge: 1.
 test git squash merge: 2.
 test git squash merge: 3.
 test git commit --amend.
+test to sign the git commmit with you private gpg key.
